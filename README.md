@@ -1,5 +1,8 @@
-## Hi there 👋
+## Olá 👋 me chamo Gabriel Silva
 
+## Sobre Mim:
+ Olá! Meu nome é Gabriel Silva e tenho 19 anos. Sou um entusiasta do desenvolvimento web!
+ Atualmente, estou desenvolvendo minhas habilidades em ReactJs, e estou sempre em busca de aprender novas tecnologias e tendências da área. Recentemente, trabalhei em projetos pessoais e acadêmicos onde pude aplicar conceitos de design responsivo e melhorar a experiência do usuário.
 
 ### Contatos
 
