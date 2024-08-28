@@ -1,4 +1,4 @@
-## Olá 👋 me chamo Gabriel Silva
+## Olá 👋 Me chamo Gabriel Silva
 
 ## Sobre Mim:
  Olá! Meu nome é Gabriel Silva e tenho 19 anos. Sou um entusiasta do desenvolvimento web!
